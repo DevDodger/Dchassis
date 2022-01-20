@@ -645,7 +645,7 @@
 --[[Run]]
 
 	--Print Version
-	local ver=require(car["A-Chassis Tune"].README)
+	local ver=require(car["D-Chassis Tune"].README)
 	print("//INSPARE: AC6 Loaded - Build "..ver)
 	
 	--Runtime Loops
