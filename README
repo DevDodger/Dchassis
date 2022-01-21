@@ -13,7 +13,16 @@ Update - 0.1
 -------------
 Updated line "39"
 Before local _GThrottle=0
---------------------------
 New local _GThrot=0
+1/20/22
+-------------------------
+Update - 0.2
+-------------
+Updated line "8"
+Secondary int script.
+	Tune.LoadDelay		= .1
+fixed spelling lol.
+1/20/22
+------------------------
 
 
