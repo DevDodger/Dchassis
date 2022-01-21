@@ -8,21 +8,6 @@ function(--yes its similar to a-chassis. We do use there GUI.)
 --scripted by dodger.
 --you can follow me here, https://roblox.com/users/430377132/profile or here, https://www.youtube.com/channel/UCX_Coa0KVnjpK7BO2SHbKjw
 --thanks for reading.
-//UPDATES\\
-Update - 0.1 
--------------
-Updated line "39"
-Before local _GThrottle=0
-New local _GThrot=0
-1/20/22
--------------------------
-Update - 0.2
--------------
-Updated line "8"
-Secondary int script.
-	Tune.LoadDelay		= .1
-fixed spelling lol.
-1/20/22
-------------------------
+Special credit to, Racingdukes, and the whole Dallas County team!
 
 
